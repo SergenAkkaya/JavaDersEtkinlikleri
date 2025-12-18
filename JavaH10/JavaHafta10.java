@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class JavaHafta10 {
     public static void main(String[] args) {
         int [] sayilar = {10,20,30,40,50,60};
-        String [] isimler = {"ahmet","mehmet","kamil","mal emin"};
-        char [] karakterler={'a','b','c','d'};
-        double [] VirgulluS={12.2,4.5,10.5,23.5};
+        //String [] isimler = {"ahmet","mehmet","kamil","mal emin"};
+        //char [] karakterler={'a','b','c','d'};
+        //double [] VirgulluS={12.2,4.5,10.5,23.5};
 
 
 
